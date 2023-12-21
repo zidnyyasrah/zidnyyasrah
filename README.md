@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQEJS-8CO-p9MA/profile-displaybackgroundimage-shrink_350_1400/0/1694857774496?e=1700697600&v=beta&t=gJDibYWyD1UP8CQ2HLrRP9R8eT44ztkSV3qtCyk8HCg)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEJS-8CO-p9MA/profile-displaybackgroundimage-shrink_350_1400/0/1694857777721?e=1708560000&v=beta&t=eld7d9XzHTafKvQoHP0MdzlulElg3TXgD9gzDHZ6qtw)
 <h1 align="center">Hi There 👋, I'm Zidny Yasrah</h1>
 <h3 align="center">An Undergraduate Student from West Sumatra, Indonesia</h3>
 <img align="right" alt="cat" width="400" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
