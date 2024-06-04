@@ -1,10 +1,8 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQEJS-8CO-p9MA/profile-displaybackgroundimage-shrink_350_1400/0/1694857777721?e=1723075200&v=beta&t=Ga3Yt9V4wZwTNZwfzSY2DEq8W9VGty6_5IkayWAL3vo)
 <h1 align="center">Hi There 👋, I'm Zidny Yasrah</h1>
-<h3 align="center">An Undergraduate Student from West Sumatra, Indonesia</h3>
+<h3 align="center">A Student from West Sumatra, Indonesia</h3>
 <img align="right" alt="cat" width="400" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
 
-
-- 🌱 I’m currently learning **Embedded System**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
