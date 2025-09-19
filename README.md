@@ -1,6 +1,5 @@
 ![MasterHead](https://i.imgur.com/99zCpBT.jpeg)
 <h1 align="center">Hi There 👋, I'm Zidny Yasrah</h1>
-<h3 align="center">A Student from West Sumatra, Indonesia</h3>
 <img align="right" alt="cat" width="400" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
 
 
